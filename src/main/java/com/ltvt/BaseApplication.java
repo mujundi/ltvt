@@ -1,6 +1,6 @@
-package com.changenode;
+package com.ltvt;
 
-import com.changenode.plugin.*;
+import com.ltvt.plugin.*;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;

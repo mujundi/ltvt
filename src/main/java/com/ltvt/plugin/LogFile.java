@@ -1,8 +1,8 @@
-package com.changenode.plugin;
+package com.ltvt.plugin;
 
-import com.changenode.BaseApplication;
-import com.changenode.Log;
-import com.changenode.Plugin;
+import com.ltvt.BaseApplication;
+import com.ltvt.Log;
+import com.ltvt.Plugin;
 import javafx.scene.control.*;
 import javafx.stage.Stage;
 

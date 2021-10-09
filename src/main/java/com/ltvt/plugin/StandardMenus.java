@@ -1,7 +1,7 @@
-package com.changenode.plugin;
+package com.ltvt.plugin;
 
-import com.changenode.Log;
-import com.changenode.Plugin;
+import com.ltvt.Log;
+import com.ltvt.Plugin;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
